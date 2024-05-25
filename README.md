@@ -1,9 +1,6 @@
 ### Projet Book-libary
 
-Le Book App est un simple concept offrant à ses utilisateurs d'enregistrer des collections de livres.
-Il offre une espace assez simple de stokage des données en ligne et facile d'utilisation.
-
-L'utilisateur peut aujouter ou supprimer des données.
+Le Book App est un outil logiciel conçu pour aider les utilisateurs à organiser et à gérer leurs collections de livres personnelles. Ce projet vise à résoudre le problème de la désorganisation et de la difficulté à suivre les livres en fournissant aux utilisateurs une interface conviviale pour ajouter, modifier et rechercher des livres.
 
 ---
 
